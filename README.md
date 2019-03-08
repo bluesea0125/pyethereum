@@ -5,4 +5,7 @@
     pip install -r requirements.txt
     pip install -r dev-requirements.txt
     python setup.py install
-### Test
+### python version support
+   * [x] python2.7
+   * [x] python3.5
+   * [ ] python3.6
